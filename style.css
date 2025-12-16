@@ -17,3 +17,19 @@
 img {
     width: 30%;
 }
+
+#popupUm {
+    display: none;
+}
+
+#popupDois {
+    display: none;
+}
+
+#popupTres {
+    display: none;
+}
+
+#popupQuatro {
+    display: none;
+}

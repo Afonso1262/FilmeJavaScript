@@ -65,3 +65,76 @@ posterTres.addEventListener('click', function () {
 posterQuatro.addEventListener('click', function () {
     sinopseFilmeQuatro()
 })
+
+
+
+
+
+
+// const popUm = document.getElementById('popupUm')
+// const popDois = document.getElementById('popupDois')
+// const popTres = document.getElementById('popupTres')
+// const popQuatro = document.getElementById('popupQuatro')
+
+// const sobreporUm = document.querySelector('#popupUm')
+// const sobreporDois = document.querySelector('#popupDois')
+// const sobreporTres = document.querySelector('#popupTres')
+// const sobreporQuatro = document.querySelector('#popupQuatro')
+
+// let moreInfoUm = false;
+// let moreInfoDois = false;
+// let moreInfoTres = false;
+// let moreInfoQuatro = false;
+
+// function popupButaoUm() {
+//     moreInfoUm = !moreInfoUm
+//     if (moreInfoUm == true) {
+//         popUm.style.display = 'inline'
+//     } else {
+//         popUm.style.display = 'none'
+//     }
+// }
+
+// function popupButaoDois() {
+//     moreInfoDois = !moreInfoDois
+//     if (moreInfoDois == true) {
+//         popDois.style.display = 'inline'
+//     } else {
+//         popDois.style.display = 'none'
+//     }
+// }
+
+// function popupButaoTres() {
+//     moreInfoTres = !moreInfoTres
+//     if (moreInfoTres == true) {
+//         popTres.style.display = 'inline'
+//     } else {
+//         popTres.style.display = 'none'
+//     }
+// }
+
+// function popupButaoQuatro() {
+//     moreInfoQuatro = !moreInfoQuatro
+//     if (moreInfoQuatro == true) {
+//         popQuatro.style.display = 'inline'
+//         pop
+//         popQuatro.style.display = 'none'
+//     }
+// }
+
+// sobreporUm.addEventListener('click', function () {
+//     popupButaoUm()
+// })
+
+// sobreporDois.addEventListener('click', function () {
+//     popupButaoDois()
+// })
+
+// sobreporTres.addEventListener('click', function () {
+//     popupButaoTres()
+
+// })
+
+// sobreporQuatro.addEventListener('click', function () {
+//     popupButaoQuatro()
+// })
